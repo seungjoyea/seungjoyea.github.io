@@ -6,3 +6,8 @@ Hi! Thank you for visiting my page. My name is Seungjo Yea and currently working
 ✨ Linkedin : https://www.linkedin.com/in/seungjo-yea-206204243/<p>
 ✨ Hardware blog :  https://ai-hardware-world.tistory.com/<p>
 ✨  Software blog : https://machinelearning-hardware.tistory.com/<p>
+
+# Project list
+- FIR Filer optimization
+- Pong game w/ Zynq-7000
+- Healing machine w/ STM32F767
