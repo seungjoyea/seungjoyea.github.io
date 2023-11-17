@@ -1,5 +1,5 @@
-# Dillinger
-## _The Last Markdown Editor, Ever_
+# Seungjo Yea
+## Junior AMD-Xilinx Machine learning FAE
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
