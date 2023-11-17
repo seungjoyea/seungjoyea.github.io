@@ -8,6 +8,6 @@ Hi! Thank you for visiting my page. My name is Seungjo Yea and currently working
 ✨  Software blog : https://machinelearning-hardware.tistory.com/<p>
 
 # Project list
-- FIR Filer optimization
-- Pong game w/ Zynq-7000
-- Healing machine w/ STM32F767
+- FIR Filer optimization [[Link]](https://github.com/seungjoyea/Generic_FIR_Filter-generic-CPS-TAP-parallel)
+- Pong game w/ Zynq-7000 [[Link]](https://github.com/seungjoyea/Pong_Game_w_Zynq7000)
+- Healing machine w/ STM32F767 [[Link]](https://github.com/seungjoyea/Healing_machine_project) 
