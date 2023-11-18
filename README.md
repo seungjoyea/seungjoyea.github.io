@@ -3,8 +3,6 @@
 
 Hi! Thank you for visiting my page. My name is Seungjo Yea and currently working at AMD as a Machine learning Field application engineer. Previously, I got a bacholar degree in Myongji University with GPA 4.34/4.5, majoring Electric engineering. I'm interested in realizing machine models to boards and GPUs to make our life better.
 
-Contact : dothebest1118@gmail.com
-
 ✨ Github :  [[Link]](https://github.com/seungjoyea)
 
 ✨ Linkedin : [[Link]](https://www.linkedin.com/in/seungjo-yea-206204243)
@@ -21,3 +19,5 @@ Contact : dothebest1118@gmail.com
 
 ## ARM
 - Healing machine w/ OK-STM767 Arm core kit [[Link]](https://github.com/seungjoyea/Healing_machine_project)
+
+Email : dothebest1118@gmail.com
