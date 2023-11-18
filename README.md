@@ -2,6 +2,7 @@
 ## Junior AMD-Xilinx Machine learning FAE
 
 Hi! Thank you for visiting my page. My name is Seungjo Yea and currently working at AMD as a Machine learning Field application engineer. Previously, I got a bacholar degree in Myongji University with GPA 4.34/4.5, majoring Electric engineering. I'm interested in realizing machine models to boards and GPUs to make our life better.
+Contact : dothebest1118@gmail.com
 
 ✨ Github :  [[Link]](https://github.com/seungjoyea)
 
